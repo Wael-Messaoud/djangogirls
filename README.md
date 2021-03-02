@@ -8,7 +8,7 @@ In your terminal :
 
 THe default Django page is located at :
 
-**site-packages** folder ( which is an external library repository) **> django > views > templates > default_urlconf.html** and mess around with it!
+**site-packages** folder ( which is an external library repository) **> django > views > templates > default_urlconf.html**. Mess around with it!
 A nice example would be to add an anchor tag with a specific id and add a script to access the **admin route**. A possible script would be : 
 
 ```
