@@ -1,4 +1,4 @@
-mysite/.idea
+.idea/
 # Python
 *.pyc
 *~
@@ -11,6 +11,7 @@ venv/
 
 # Database
 db.sqlite3
+db
 
 # Static folder at project root
 /static/
