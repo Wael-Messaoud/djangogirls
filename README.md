@@ -1,10 +1,11 @@
 # djangogirls
 
-In your terminal :
+In case you want to run the project locally. In your terminal :
 
 1) Run **python manage.py migrate**
 2) Run **python manage.py createsuperuser** and fill in the required fields
 3) Run **python manage.py runserver**
+4) Do not forget to add some posts through the admin template and specify a publish date for them !
 
 THe default Django page is located at :
 
