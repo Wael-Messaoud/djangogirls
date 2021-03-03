@@ -20,6 +20,8 @@ Check the deployed version :
 
 https://waelmessaoud.pythonanywhere.com/
 
-https://waelmessaoud.pythonanywhere.com/admin (use **wael** as username and **funfun** as the password)
+In order to have access to posts modifications, you need to go to the following link :
+
+https://waelmessaoud.pythonanywhere.com/admin (use **wael** as username and **funfun** as the password) 
 
 
