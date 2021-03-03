@@ -59,7 +59,9 @@ h4 {
     float: right;
 }
 
-
+.post>.actions>a {
+    margin-left: 10px;
+}
 
 .btn-default,
 .btn-default:visited {
